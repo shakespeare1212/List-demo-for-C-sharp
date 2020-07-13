@@ -1,0 +1,7 @@
+E:\Users\James\Documents\Listly List\Lists HowTo\Lists HowTo\bin\Debug\Lists HowTo.exe.config
+E:\Users\James\Documents\Listly List\Lists HowTo\Lists HowTo\bin\Debug\Lists HowTo.exe
+E:\Users\James\Documents\Listly List\Lists HowTo\Lists HowTo\bin\Debug\Lists HowTo.pdb
+E:\Users\James\Documents\Listly List\Lists HowTo\Lists HowTo\obj\Debug\Lists HowTo.csprojResolveAssemblyReference.cache
+E:\Users\James\Documents\Listly List\Lists HowTo\Lists HowTo\obj\Debug\Lists HowTo.csproj.CoreCompileInputs.cache
+E:\Users\James\Documents\Listly List\Lists HowTo\Lists HowTo\obj\Debug\Lists HowTo.exe
+E:\Users\James\Documents\Listly List\Lists HowTo\Lists HowTo\obj\Debug\Lists HowTo.pdb
